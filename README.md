@@ -68,9 +68,7 @@ Five classifiers × three temporal resolutions, same twelve Binance microstructu
 
 Python · scikit-learn · XGBoost · PyTorch/TensorFlow (focal-loss DNN) · pandas · matplotlib
 
-## Team
-
-Jad Ghazi · Sadek Sadek · Haytham Duwaji · Borhane Abdul Samad · Mohamad Ardroumli
+Jad Ghazi 
 
 Presented to Dr. Wael Khreich
 
